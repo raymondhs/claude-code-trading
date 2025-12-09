@@ -1,0 +1,8 @@
+{
+  "name": "alpaca",
+  "description": "Trading commands and tools for Alpaca Markets integration",
+  "version": "1.0.0",
+  "author": {
+    "name": "Raymond Hendy"
+  }
+}

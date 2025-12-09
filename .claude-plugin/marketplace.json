@@ -1,0 +1,13 @@
+{
+  "name": "claude-code-trading",
+  "owner": {
+    "name": "Raymond Hendy"
+  },
+  "plugins": [
+    {
+      "name": "alpaca",
+      "source": "./plugins/alpaca",
+      "description": "Trading commands and tools for Alpaca Markets integration"
+    }
+  ]
+}
